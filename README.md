@@ -7,7 +7,7 @@ A simple Naieve Bayes classifier for identifying spam and non-spam (ham) emails.
 The myclassifer.py file contains my solution and the spam classifier.py implements it using the testing and training files.
 
 #### Features
-- Classifier that can be instantiated and trained to linearly seperate between two classes with an approximate 88.6% accuracy (according to tests on hidden assement data)
+- Classifier that can be instantiated and trained to linearly seperate between two classes with an approximate 88.6% accuracy (according to tests on hidden assessment data)
 
 - Used log of probabilities to maintain precision for small probabilities, and to increase performance by allowing for multiplication to be transformed into addition
 
